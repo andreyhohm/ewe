@@ -1,0 +1,11 @@
+body{
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    display: flex;
+}
+img{
+    height: 50%;
+    width: 50%;
+    transform: scale(50%)
+}
